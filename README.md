@@ -1,0 +1,2 @@
+https://photos.app.goo.gl/w9N8TtHu1NZXaWQy6
+Naive Bayes and SVM methods both are performed well. The Naive Bayes model is well performs the SVM model in terms of precision, recall, and F1-scores for most classes. And the overall accuracy of the Naive Bayes model is higher which is 0.84 compared to the SVM model accuracy which is 0.67. Therefore, the Naive Bayes algorithm appears to be better suited for this dataset.
